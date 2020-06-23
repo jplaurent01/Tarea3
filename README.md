@@ -15,7 +15,7 @@ Luego de asumir independeicia de X y Y, a partir de los parámetros obtenidos en
 
 
 4) Graficar las funciones de densidad marginales (2D), la función de densidad conjunta (3D).
-<img src=“./[Captura de pantalla (743)].png”>
+<img src=“./Captura de pantalla (743).png”>
 
 <img src="../master/images/Captura de pantalla (743).png" width="150">
 <img src="../master/images/Curva de datos reales fx curva de mejor ajuste vs .png" width="150">
