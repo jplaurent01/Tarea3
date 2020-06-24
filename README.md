@@ -14,16 +14,19 @@ Luego de asumir independeicia de X y Y, a partir de los parámetros obtenidos en
 
 ##3) Hallar los valores de correlación, covarianza y coeficiente de correlación (Pearson) para los datos y explicar su significado.
 
+*correlación:
+*covarianza:
+*coeficiente de correlación (Pearson):
 
 
 ##4) Graficar las funciones de densidad marginales (2D), la función de densidad conjunta (3D).
 
 
-![a](a.png)
 ![b](b.png)
 ![c](c.png)
 ![d](d.png)
-![e](d.png)
+![e](e.png)
+![f](f.png)
 
 
 
